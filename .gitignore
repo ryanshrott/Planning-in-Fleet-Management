@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__
+*.pyc
+*.zip
+*.json
+.idea/
+tests/.cache/v/cache/lastfailed
+.cache/v/cache/lastfailed
